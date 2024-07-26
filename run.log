@@ -1,0 +1,3 @@
+ ./submit_color2gray_openmp.sh color2gray_openmp Mars_18374-5413.jpg Mars_18374-5413_gray.jpg 2 1
+
+./analysis_color2gray_openmp.sh color2gray_openmp
